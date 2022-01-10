@@ -1,4 +1,4 @@
-## Install Nx CLI
+### Install Nx CLI
 
 Run `npm install -g nx`
 
